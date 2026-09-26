@@ -56,3 +56,6 @@
 - Everyone writes their own drivers independently
 - Deal with the freertos and code integration later
 - Everyone's code has their own assumptions, so ideally if we force people to make some assumptions before, then it will save headche later
+
+### Additional Note: 
+- In theory, writing our own bootloader is convenient because we can just update our firmware without having to plug in our computer, I think. For the sake of time we probably shouldn’t though
