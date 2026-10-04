@@ -6,6 +6,8 @@ Goal: Build the car and compete in the AutoNav competition
 - [[Hardware]]
 
 ## General Elements
+- [[Tentative Architecture Notes]]
+- [[Autonomous Scooter]]
 - [[Sensors]]
 - [[Chassis]]
 - [[Safety and E-stop]]
@@ -20,4 +22,7 @@ Goal: Build the car and compete in the AutoNav competition
 
 ## Misc
 - [[Meeting with Jacob]]
+- [[Debugging and Blinky Assignment]]
+
+
 
