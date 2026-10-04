@@ -3,7 +3,10 @@ The firmware will be split up into two microcontroller nodes, each running FreeR
 The two microcontroller nodes will communicate with eachother through CAN.
 
 ## Drive Node
-This node will manage both motor drivers, both motor encoders, and the IMU. 
+This node will manage both motor drivers, both motor encoders, and the IMU.  
+- There are 2 control loops (possibly) (might have to think about atomic updates)
+- One core does communication
+- One does the feedback control loop for the motors
 
 ## Safety/body Node
 This node will manage the wireless e-stop, mechanical e-stop, mode switch (between manual and autonomous mode), 'start' button, safety light, power monitoring, CAN heartbeat (IIT did this). 
