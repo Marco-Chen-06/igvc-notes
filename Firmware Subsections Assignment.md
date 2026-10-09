@@ -7,7 +7,7 @@ So for this week, you will all get to choose a firmware subsection (subsection o
 We also skinned alive the Cooper Union Autonomy Lab Autonomous Scooter for parts. We found 2 MD30C R2 30A DC Motor Drivers, 2 motors and probably some encoders. (Not sure of the model of motors and encoders yet, will update if I find out)
 
 ## Deliverable (Sunday 10/11 and Friday 10/16 Deadlines)
-- Pick the section and comment it under this post (Comment by Sunday 10/11). I'll add you if you already told me in person, too. 
+- Pick the section you want to work on and comment it under this post (Comment by Sunday 10/11). I'll add you if you already told me in person, too. 
 - By Friday 10/16, make a slide presentation (or whatever format you want) and present it for about 5 minutes to all firmware members. They can literally be the crappiest slides ever and you can read off notes. The point is to show you've read the rules and done research and are ready to lead your section.
 - Cover the following in your slides: (mandatory)
 	- What is your section, and why do we need it? (1-2 sentences)
