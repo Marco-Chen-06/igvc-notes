@@ -13,3 +13,15 @@ This node will manage the wireless e-stop, mechanical e-stop, mode switch (betwe
 
 ## How Algorithms Will Get Data
 Each MCU will spit out queued data and put it on the CAN bus. Then the algorithm just plugs the innomaker into their computer and does their ros or python or stuff.
+
+
+## Encoders vs Interrupts
+I looked more into it and rp2350 has a pio peripheral which suits this very well 
+
+"Each PIO can independently execute sequential programs to manipulate GPIOs and transfer data" (RP2350 DS, 791)
+
+ PIO basically a tiny core designed to run simple state machines
+
+ [Ofifcial pico-examples quadrature encoder pio code](https://github.com/raspberrypi/pico-examples/blob/master/pio/quadrature_encoder/quadrature_encoder.c)
+
+ We can query the encoder count at any time without needing any interrupts in our control loops
