@@ -4,14 +4,12 @@ Goal: Build the car and compete in the AutoNav competition
 - [[Firmware]]
 - [[Algorithms]]
 - [[Hardware]]
-
 ## General Elements
 - [[Tentative Architecture Notes]]
 - [[Autonomous Scooter]]
 - [[Sensors]]
 - [[Chassis]]
 - [[Safety and E-stop]]
-
 ## Sources
 - [[IIT Report Notes]]
 - [[LTU Report Notes]]
@@ -23,6 +21,8 @@ Goal: Build the car and compete in the AutoNav competition
 ## Misc
 - [[Meeting with Jacob]]
 - [[Debugging and Blinky Assignment]]
+- [[Firmware Subsections Assignment]]
+- [[Final Firmware Assignment]]
 
 
 
