@@ -23,6 +23,6 @@ Goal: Build the car and compete in the AutoNav competition
 - [[Debugging and Blinky Assignment]]
 - [[Firmware Subsections Assignment]]
 - [[Final Firmware Assignment]]
-
+- [[CAN Testing and Planning]]
 
 
